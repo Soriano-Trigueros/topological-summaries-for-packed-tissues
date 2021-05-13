@@ -1,6 +1,6 @@
 # Topological Summaries for Packed Tissues
 This is the computational experiment which appeared in the paper
-"Stable topological summaries for analysing the organization ofcells in a packed 
+"Stable topological summaries for analysing the organization of cells in a packed 
 tissue". We use TDA to prove the existence of significant 
 differences in the topological-geometrical organization of 2D epithelial
 tissues. Functions must be executed in the following order:
