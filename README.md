@@ -1,4 +1,4 @@
-# epithelial_topology
+# Topological Summaries for Packed Tissues
 This is the computational experiment which appeared in the paper
 "Stable topological summaries for analysing the organization ofcells in a packed 
 tissue". We use TDA to prove the existence of significant 
